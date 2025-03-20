@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joesaju
-- 👀 I’m interested in ...design and developing
-- 🌱 I’m currently learning ...datastructures and algorithms in java , python
-- 💞️ I’m looking to collaborate on ...full stack developing skill
+- 👀 I’m interested in ...automation testing
+- 🌱 Worked in western digital in both manual and automation testing
+- 💞️ I’m looking for job
 - 📫 How to reach me ...https://github.com/joesaju
 
 <!---
