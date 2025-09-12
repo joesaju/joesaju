@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joesaju
-- 👀 I’m interested in ...automation testing
+- 👀 I’m interested in ...Artificial Intelligence and machine learning.
 - 🌱 Worked in western digital in both manual and automation testing
 - 💞️ I’m looking for job
 - 📫 How to reach me ...https://github.com/joesaju
